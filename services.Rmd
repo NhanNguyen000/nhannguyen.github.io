@@ -1,0 +1,62 @@
+---
+title: "Services"
+output: html_document
+---
+
+# Services
+
+I offer three fixed‑price formats designed to reduce uncertainty and accelerate decisions.
+
+## 1) Multi‑Omics Decision Sprint
+**€12,000–€15,000 · 3–4 weeks**  
+A focused project to answer **one critical decision**.
+
+**You receive**
+- Integrated review of existing datasets  
+- Clear **go / no‑go** guidance  
+- Key risks and biological interpretation  
+- Decision‑ready report + executive summary  
+
+---
+
+## 2) Biomarker & Hypothesis Validation Project
+**€18,000–€25,000 · 6–8 weeks**  
+Independent, robust validation **before major commitments**.
+
+**You receive**
+- Multi‑omics integration across datasets  
+- Evidence‑based prioritization  
+- Visuals ready for internal or investor use  
+- Clear recommendation: **Proceed · Refine · Stop**  
+
+---
+
+## 3) Scientific Translation & Advisory Retainer
+**€2,500–€3,500 / month · 3–6 months**  
+Ongoing access to **senior** interpretation for recurring decisions.
+
+**You receive**
+- Monthly strategic sessions  
+- Written reviews and quick‑turn expert input  
+- Consistent interpretation across projects and milestones  
+
+---
+
+## Why This Works
+- Decision‑first recommendations, not data dumps  
+- System‑level integration across omics layers  
+- Direct access to a senior expert  
+- Rapid clarity with predictable, fixed pricing  
+
+---
+
+## How to Start
+- **Have one urgent decision?** → *Decision Sprint*  
+- **Need deeper validation?** → *Validation Project*  
+- **Recurring decision points?** → *Advisory Retainer*  
+
+<p class="cta">
+  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+

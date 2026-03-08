@@ -1,0 +1,17 @@
+---
+title: "Decision Sprint: 7‑Point Checklist for Faster Go / No‑Go"
+date: "2026-03-08"
+output: html_document
+---
+
+**Purpose.** When one critical decision is blocked by unclear multi‑omics signals, this checklist accelerates alignment and clarity.
+
+1. **Decision question** is singular and specific.  
+2. **Data inventory** spans all relevant omics layers (and versions).  
+3. **Confounders** and batch effects acknowledged upfront.  
+4. **Integration plan** favors biological narrative over tool‑lists.  
+5. **Confidence levels** assigned to each conclusion.  
+6. **Risks / caveats** documented and ranked.  
+7. **Next steps**: Proceed · Refine · Stop.
+
+> If you’re here because of a funding or preclinical milestone, the **Decision Sprint** is the quickest fit. See <a href="../services.html">Services</a>.

@@ -1,0 +1,40 @@
+---
+title: "Decision‑Ready Multi‑Omics Interpretation"
+output: html_document
+---
+
+<div class="hero">
+  <h1>Decision‑Ready Multi‑Omics Interpretation</h1>
+  <p class="lead">
+    Turning complex genomics, transcriptomics, proteomics, and metabolomics data
+    into clear, actionable decisions — fast.
+  </p>
+  <p>
+    <a class="btn btn-primary btn-lg" href="contact.html#book">Schedule a 20‑minute Decision Call</a>
+    <a class="btn btn-outline-primary btn-lg" href="services.html">See Services & Pricing</a>
+  </p>
+</div>
+
+## What I Do
+
+I help biotech and translational research teams make **fast, confident decisions** from complex multi‑omics datasets.
+Instead of long, fragmented analyses, I deliver **clear biological narratives**, **prioritized conclusions**, and **specific recommendations** you can act on immediately.
+
+### Who I Work With
+- Early‑stage biotech teams preparing funding or key milestones  
+- Translational academic groups facing publication or grant deadlines  
+- Academic‑rooted biotechs needing a neutral external view  
+- US/EU collaborations requiring consistent interpretation across sites  
+
+### Why Teams Choose This Approach
+- **Decision‑first outputs:** clear go / no‑go or prioritization  
+- **Integrated multi‑omics senior expertise** (genomics → metabolomics)  
+- **Fast clarity:** weeks, not months  
+- **Independent view:** reduces internal bias  
+- **High availability:** EU/UK ↔ Vietnam collaboration  
+
+<p class="cta">
+  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+

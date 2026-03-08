@@ -1,0 +1,31 @@
+---
+title: "Activities"
+output: html_document
+---
+
+# Activities
+
+## Teaching
+Short descriptions of workshops and courses I’ve delivered.
+
+- Workshop (University) — high‑level description and learning outcomes  
+- Undergraduate course — topic and responsibilities  
+
+## Portfolio / Community / Mentoring
+Selected non‑research activities and community contributions.
+
+- **Corona News App** — app for non‑Dutch speakers to follow COVID‑19 news  
+- **Women in Data Science (WiDS) Datathon** — participant  
+- **Women in Entrepreneurship Innovation (Germany)** — cohort participant  
+- **CyberMentor** — mentoring girls in STEM  
+
+## Tools
+- **RegOmics** — Regulatory extraction for Omics data (R/Shiny)
+  - App: https://nhannguyen.shinyapps.io/RegOmics_Rshinyapp/  
+  - Code: https://github.com/NhanNguyen000/RegOmics  
+
+<p class="cta">
+  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+

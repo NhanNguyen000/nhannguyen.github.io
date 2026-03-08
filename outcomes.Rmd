@@ -1,0 +1,21 @@
+---
+title: "Scientific Outcomes"
+output: html_document
+---
+
+# Scientific Outcomes
+
+I maintain an active academic track record; below are **selected highlights** and direct links to full lists.
+
+## Selected Highlights
+- **Omics technologies to understand drug toxicity mechanisms** — Review on how omics data reveal mechanisms of drug side effects. *Drug Discovery Today* (2022).
+- **Epirubicin alters DNA methylation profiles related to cardiotoxicity** — DNA methylation changes linked to cardiotoxicity. *Frontiers in Bioscience* (2022).
+- **Translational proteomics of anthracycline‑induced cardiotoxicity** — From cardiac microtissues to human biopsies. *Frontiers in Genetics* (2021).
+
+> For full abstracts and citation details, visit my Publications page or Google Scholar.
+
+<p class="cta">
+  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+

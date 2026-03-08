@@ -1,0 +1,18 @@
+---
+title: "Validation vs. Exploration: Don’t Confuse the Two"
+date: "2026-03-08"
+output: html_document
+---
+
+Teams often blur **validation** and **exploration**:
+
+- *Exploration* is for hypothesis generation and wide pattern‑finding.
+- *Validation* is for stress‑testing specific hypotheses under time and budget pressure.
+
+**You probably need validation when:**
+
+- There’s a pending **investment** or **partner** decision.
+- Stakeholders need a **confidence‑weighted** conclusion.
+- “More analysis” won’t change the deadline — a clear **Proceed · Refine · Stop** will.
+
+This is exactly what my **Biomarker & Hypothesis Validation Project** is designed to deliver. See <a href="../services.html">Services</a>.

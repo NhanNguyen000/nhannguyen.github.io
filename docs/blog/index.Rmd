@@ -1,0 +1,32 @@
+---
+title: "Blog"
+output: html_document
+---
+
+# Blog
+
+Short, decision‑focused notes on multi‑omics interpretation:
+- Common pitfalls in cross‑omics integration
+- Patterns in go / no‑go decisions
+- Translational framing for grants, publications, and partner decks
+
+<div class="note">
+  New here? Start with <a href="../services.html">Services</a> or <a href="../index.html">Home</a>.
+</div>
+
+## Latest posts
+
+```{r, echo=FALSE}
+# List all rendered posts in /blog (newest first)
+posts <- list.files(pattern = "*.html")
+posts <- posts[posts != "index.html"]
+info <- file.info(posts)
+posts <- posts[order(info$mtime, decreasing = TRUE)]
+if (length(posts) == 0) {
+  cat("- (No posts yet — check back soon.)
+")
+} else {
+  cat(paste0("- <a href="", posts, "">", sub(".html$", "", posts), "</a>
+"))
+}
+```

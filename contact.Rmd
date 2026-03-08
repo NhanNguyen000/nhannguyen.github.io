@@ -1,0 +1,23 @@
+---
+title: "Contact"
+output: html_document
+---
+
+# Contact
+
+I work with a small number of teams at a time to ensure depth, speed, and decision impact.
+
+## Book a Decision Call {#book}
+- **20 minutes** to clarify your decision, timeline, and whether a sprint or validation is the right fit.  
+- Use my scheduling link:
+
+<p>
+  <a class="btn btn-primary btn-lg" href="zzzz" target="_blank" rel="noopener">Schedule via Calendly</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+
+**Email:** <a href="mailto:aa@gmail.com">aa@gmail.com</a>  
+**LinkedIn:** https://www.linkedin.com/in/nhannguyen  
+**GitHub:** https://github.com/NhanNguyen000  
+
+> Prefer email? Send 3 bullet points: decision context, datasets in scope, target timeline.

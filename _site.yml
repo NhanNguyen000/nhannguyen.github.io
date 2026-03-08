@@ -1,0 +1,34 @@
+name: "Nhan Nguyen — Decision-ready Multi-Omics"
+output_dir: "docs"
+
+navbar:
+  title: "Nhan Nguyen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Services"
+      href: services.html
+    - text: "Scientific Outcomes"
+      href: outcomes.html
+    - text: "Activities"
+      href: activities.html
+    - text: "Blog"
+      href: blog/index.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-linkedin
+      href: "https://www.linkedin.com/in/nhannguyen"
+    - icon: fa-github
+      href: "https://github.com/NhanNguyen000"
+
+collections:
+  blog:
+    output: true
+
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+    df_print: paged
+    css: assets/styles.css
